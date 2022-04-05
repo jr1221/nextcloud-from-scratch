@@ -1,0 +1,6 @@
+site_name: Nextcloud from Scratch
+site_url: https://nextcloud-from-scratch.readthedocs.io
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
