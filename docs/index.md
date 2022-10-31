@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Nextcoud from Scratch
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a beginners guide to install Nextcloud.  No computing experience needed!
 
-## Commands
+Those with experience are recommended to install via [Nextcloud docs](https://docs.nextcloud.com/server/latest/admin_manual/installation/index.html)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## What is the end product?
 
-## Project layout
+A website comperable to OneDrive or Google Drive that you have installed locally on a device.  Get a feel of the website [on the Nextcloud trial site](https://nextcloud.com/instant-trial/).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Interested? Head over to [Getting started](getting-started.md) to learn more!

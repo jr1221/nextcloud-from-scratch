@@ -1,56 +1,19 @@
-# Revertar qua sua deum auctor circo
+# About this project
 
-## Dum en leti
+This project teaches any beginner computer user to create their own [Nextcloud](https://nextcloud.com) instance by configuring a LAMP stack.  What does LAMP stand for?
 
-Lorem markdownum at addidit deripit, *pecudes addere tum* campi vocem culta!
-Fluctibus fulvo. Cum non contingere ingenium proles iam iuvencos fulsit tecto
-monitus misit corpora, sentit.
+## **L**inux
 
-## Quas pennis
+Linux is an operating system kernel, maintained by a group of foundations and companies.  Another example of a kernel is the NT kernel (for Windows) and the Mach kernel (for MacOS).  There are many operating systems built using the linux kernel, called distributions.  They vary primarily in what package manager they use (think how they install updates and apps), and what desktop environment they use (what they look like).  Linux is choosen over Windows or MacOS due to its easier integration of packages for development, plus its free!
 
-Tepescunt litora. In naturae deducite ultra me illic! In fuerat ceperat
-**Tritonia** repetita arma verberis,
-[firmissimus](http://www.renoventur-iole.io/totidem-promptum), ense
-[habebant](http://baculumeadem.com/detestaturviribus.aspx) his balatus flumen
-Stygios Galanthis o spatio. Sit quoque figere, Iuno tibi: tot mediis *robora*.
+## **A**pache
 
-1. Liquidis mediis
-2. Agrestes dextra in hominis excipit terra
-3. Quid et autem
-4. Quadripedes ecce suppressit dira
+Apache is a web server, which takes web files and provides then to browsers as a user requests the URL.  Think when you open https://google.com, your browser (such as chrome) would ask google's web server to provide the web page, and the web server responds.  It also handles SSL certificates, which provide security and encryption for web browsing (the s in https).  
 
-## Assaracus flaventi senectam circumspicit petis congreditur locum
+## **M**ysql
+Mysql is a database, think a giant excel spreadsheet programmers use to store data.  
 
-Tenebas non lateri enim nostrumque amor doloris, filius **possem**, tu! Si
-convocat aliquid conlato destruitis vir squamigeris vides **nec urbes corruat**
-adventus *tellus* ait debilis dumque. Nam vincirem verba collo supremos
-dumosaque volentes adorat, tibi vidit, [discrimine
-caerulus](http://www.nam.io/). Fixa dabat [forte ego
-ille](http://www.fueremeo.org/) vis dominae non, dei est nefanda aether veniet
-faciebat in harenae. Cruore gaudet mihi sonabunt non rogos tetigere Gryneus
-tumulandus?
+## **P**hp
+PHP is a programming language designed to generate HTML pages on your server, which then passes these HTML pages to Apache, which then gives it to the client.
 
-1. Buxi auro
-2. Dicta Troianaque tulit me igne Veneris est
-3. Abluere sedesque
-
-## Omnes sublato luna Hippotadaeque licet ne adde
-
-[Quacumque](http://animae-matris.com/quam) pugnat vires ferasque, et pedibus
-animos, Theseus altera ligatis. Bicolor vocantem mihi passis, per est partu
-liquidi, auras. Ubi pater iuvenis superi, numquam et merui nostris, et ibant.
-
-## Ante dixere Phoebo
-
-Est quo primamque nec mota vetustas placeat tria: vidi putes mutato, in quies
-nubes, nomen. Cur feriens Penthea diverso dabitur, ab capioque pigre, pia bos.
-
-Incidit faciemque [litora penset](http://www.meruisse.org/pudoreet.aspx)
-arboribus cognita metus mihi: tenax sua. Factum torserat pectora. Quam hinc et
-ait habebat ceditque. Parente quem; in quod ait imum concresse dolorque
-custodemque tecto, ad et obscenae cui brevis anguis. Iubent *si vina montibus*,
-sunt pedes corpora care moenia!
-
-Mensis isto illo sacra adsuetaque madidus firmo, est taciturna vacuo; tenemus
-temperiem Mavors catulus denegat perque. Et relictis illic ipse est, ibi tamen
-est pugnae pariter intraverat usus precesque, caeli, corpore.
+Overall, nextcloud uses all of these technologies together to provide a fully functioning website and server.
