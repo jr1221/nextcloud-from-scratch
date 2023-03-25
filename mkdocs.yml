@@ -9,3 +9,5 @@ nav:
     - Configure Nextcloud: configure-nextcloud.md
 theme:
     name: readthedocs
+
+markdown_extensions:

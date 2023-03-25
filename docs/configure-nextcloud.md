@@ -1,5 +1,7 @@
 # Configuring Nextcloud
 
+[TOC]
+
 Nextcloud has multiple configuration files which define how the program works.  First, however, we can configure it from the internet.
 
 ## Basic setup  
